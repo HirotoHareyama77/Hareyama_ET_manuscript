@@ -1,0 +1,44 @@
+{
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "uplatex ➞ upbibtex(ieicej) ➞ uplatex*2 ➞ dvipdfmx",
+      "tools": [
+        "uplatex",
+        "upbibtex",
+        "uplatex",
+        "uplatex",
+        "dvipdfmx"
+      ]
+    }
+  ],
+  "latex-workshop.latex.tools": [
+    {
+      "name": "uplatex",
+      "command": "uplatex",
+      "args": [
+        "-interaction=nonstopmode",
+        "-synctex=1",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "upbibtex",
+      "command": "upbibtex",
+      "args": [
+        "%DOCFILE%"
+      ]
+    },
+    {
+      "name": "dvipdfmx",
+      "command": "dvipdfmx",
+      "args": [
+        "%DOCFILE%.dvi"
+      ]
+    }
+  ],
+  "latex-workshop.latex.autoBuild.run": "onSave",
+  "latex-workshop.latex.recipe.default": "uplatex ➞ upbibtex(ieicej) ➞ uplatex*2 ➞ dvipdfmx",
+  "latex-workshop.view.pdf.viewer": "tab",
+  "latex-workshop.synctex.afterBuild.enabled": true,
+  "editor.wordWrap": "on"
+}
