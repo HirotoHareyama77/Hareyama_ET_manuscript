@@ -1,5 +1,34 @@
 \begin{thebibliography}{10}
 
+\bibitem{ref1}
+{文部科学省}，
+``{小学校学習指導要領(平成29年告示)},''
+\url{https://www.mext.go.jp/content/20230120-mxt_kyoiku02-100002604_01.pdf}，March 2017．
+\newblock [アクセス日: 2025-04-12]．
+
+\bibitem{ref2}
+{文部科学省}，
+``{武道・ダンス必修化},''
+\url{https://www.mext.go.jp/a_menu/sports/jyujitsu/1330882.htm}．
+\newblock [アクセス日: 2025-04-12]．
+
+\bibitem{ref3}
+{公益財団法人 日本オリンピック委員会（JOC）}，
+``{ブレイキン},''
+\url{https://www.joc.or.jp/sports/breaking/}．
+\newblock [アクセス日: 2025-04-12]．
+
+\bibitem{ref4}
+{株式会社Dリーグ}，
+``{D.LEAGUE},''
+\url{https://home.dleague.co.jp/}.
+\newblock [アクセス日: 2025-04-12].
+
+\bibitem{ref5}
+``{ヒップホップダンス人口（子ども・青少年）},''
+\url{https://www.ssf.or.jp/thinktank/sports_life/data/dance_kidsandteens.html}，Feb.\ 2025．
+\newblock [アクセス日: 2025-04-12]．
+
 \bibitem{ref7}
 柳瀬慶子，ヤナセケイコ，
 ``表現運動・ダンス学習におけるリズム系ダンスの 「リズムの特徴を捉えて踊る」 ということに関する考察: 小学校 「サンバのリズム」 と中学校・高等学校 「ヒップホップのリズム」 に着目して，\<''
@@ -8,15 +37,33 @@ Tokoha University, Tokoha University Junior College Repository，2024．
 
 \bibitem{ref8}
 内山須美子，ウチヤマスミコ，
-``ストリートダンスのステップを用いた定形型ステップ学習の教育的意義と課題，\<''
+``ストリートダンスのステップを用いた定形型ステップ学習の教育的意義と課題,''
 白鴎大学教育学部論集，
 vol.10，no.1，pp.95--126，2016．
 
 \bibitem{ref9}
 飯野友里恵，森谷友昭，高橋時市郎，
-``ストリートダンス動作の分析とダンス指導への応用 (映像表現フォーラム)，\<''
+``ストリートダンス動作の分析とダンス指導への応用 (映像表現フォーラム),''
 映像情報メディア学会技術報告 35.14一般社団法人 映像情報メディア学会，
 pp.49--52 2011．
+
+\bibitem{ref10}
+亀山有希，カメヤマユウキ，
+``幼児教育におけるダンス・表現活動の導入に関する研究: リズムダンスを手がかりにして,''
+日本体育大学紀要，
+vol.37，no.2，pp.97--106，2008．
+
+\bibitem{ref11}
+湯浅理枝，高田康史，
+``小学校低学年における 「リズム遊び」 の指導法についての一考察-リズムに乗って体幹部を弾ませることに着目して,''
+子ども学論集，
+vol.5，pp.29--40，2019．
+
+\bibitem{ref12}
+湯浅理枝，
+``リズム系ダンス授業における児童の着眼点の変容と技能の習得—小学校低学年リズム遊び授業における児童の学習過程に着目して—,''
+初等教育カリキュラム研究，
+vol.10，pp.27--37，2022．
 
 \bibitem{ref13}
 高田康史，
@@ -26,13 +73,13 @@ International Pacific University，2015．
 
 \bibitem{ref14}
 天野海都，三浦健，栫ちか子，
-``ダンス動画を用いたストリートダンス指導における伝達方法の違いが動作習得過程に及ぼす影響，\<''
+``ダンス動画を用いたストリートダンス指導における伝達方法の違いが動作習得過程に及ぼす影響,''
 スポーツパフォーマンス研究，
 vol.15，pp.176--185，2023．
 
 \bibitem{ref15}
 斎藤光，徳久弘樹，中村聡史，小松孝徳，
-``ダンス動画へのオノマトペ付与によるダンス習得促進手法，\<''
+``ダンス動画へのオノマトペ付与によるダンス習得促進手法,''
 Technical report，
 情報処理学会，2020．
 
@@ -56,9 +103,7 @@ vol.43, no.1, pp.172--186, 2019.
 
 \bibitem{ref24}
 V. Bazarevsky, I. Grishchenko, K. Raveendran, T. Zhu, F. Zhang, and M. Grundmann,
-``Blazepose: On-device real-time body pose tracking,''
-arXiv preprint arXiv:2006.10204,
-pp.\textbullet\textbullet--\textbullet\textbullet, 2020.
+``Blazepose: On-device real-time body pose tracking,'' 2020. https://arxiv.org/abs/2006.10204
 
 \bibitem{ref27}
 P. Virtanen, R. Gommers, T.E. Oliphant, M. Haberland, T. Reddy, D. Cournapeau, E. Burovski, P. Peterson, W. Weckesser, J. Bright, et~al.,
